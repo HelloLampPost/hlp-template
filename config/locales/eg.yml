@@ -1,0 +1,57 @@
+eg:
+  logo: <img src="/images/logo-eg.svg"/>
+
+  hello_astana: "Hello City Name"
+  home_title: "Hello City Name"
+
+  how_it_works_link: "How It Works"
+  information_link: "Information"
+  contact_link: "Contact"
+  
+  description: "This is the alternate language for the page, rendering a different YML."
+  opening_line: "This should be a translated version of the English original text."
+
+  pick_an_object: "1. Choose an Object"
+  pick_an_object_text: "Find any object around the city."
+
+  say_hello: "2. Say Hello"
+  say_hello_text: "Send a text in this format: \"Hello + object name + #CODE\" to +44 1234 567 891 (e.g. \"Hello Hero Object #CODE\")"
+
+  keep_talking: "3. Keep Talking"
+  keep_talking_text: "You’ll soon get a reply! Answer the object’s questions and learn what other people have to say."
+
+  live_responses: "What is City Name Talking About?"
+  live_responses_question: "Question"
+  live_responses_answer: "Answer"
+  live_responses_next_question: "Next Question"
+  live_responses_next_answer: "Next Answer"
+
+  information: "About Hello Lamp Post"
+  information_title: "Have you ever wondered what it would be like to talk to the city that you live in?"
+  information_text: "Around the world, cities have been waking up and talking to their residents (Japan, Singapore, UK, Kazakhstan, France and the USA). Now, City Name's street furniture is waking up to talk to you!"
+  infomation_text_2: "Objects are curious about the world they find themselves in and want to ask you questions. They want to know about the local area; the people’s memories and favorite things; what they believe in and what they care about and much, much more."
+  information_cta_1: "Show More"
+  information_cta_2: "Show Less"
+
+  more_information: "More Information"
+  more_information_text_1: "During your next visit to City Name, look out for familiar street furniture."
+  more_information_text_2: "All you need to chat with the objects (things like rubbish bins, benches and bus stops) is a basic mobile phone! It’s free to play (standard SMS and data rates apply) and suitable for all ages."
+  more_information_text_3: "Hello City Name encourages people to look at the city with fresh eyes and engage with systems we often take for granted – a chance for us to slow down, reflect and see the urban environment as a playground."
+  more_information_text_4: "The interactions takes the form of a conversation. The objects are curious about the world they find themselves in and want to ask questions about it. The responses they receive are then shared with other players meaning an object understands the personality and people of the local area."
+  more_information_text_5: "Conversations await in Utrecht, get chatting with the street landmarks now through to Month 02. See if you can find them all!"
+  
+  contact_us: "About Us"
+  contact_us_title: "About Hello City Name"
+  contact_us_text_1: "Hello City Name will run from the 01 Month to the 02 Month, 2018 in partnership with Partner."
+  contact_us_text_2: "Hello Lamp Post was built by PAN Studio and was first commissioned for Watershed’s Playable City Award 2013, which ran for 8 weeks in Bristol."
+  contact_us_text_3: "If you have any questions about the project you can get in touch with us using the link below."
+  contact_us_text_4: "Find us on:"
+  contact_us_cta: "Get In Touch"
+  
+  object_1: "Text: \"Hello Hero Object_1 #CODE\" <br> To: +44 1234 567 891"
+  object_2: "Text: \"Hello Hero Object_2 #CODE\" <br> To: +44 1234 567 891"
+  object_3: "Text: \"Hello Hero Object_3 #CODE\" <br> To: +44 1234 567 891"
+  object_4: "Text: \"Hello Hero Object_4 #CODE\" <br> To: +44 1234 567 891"
+
+  to_top: "To Top"
+  to_top: "Naar begin"
