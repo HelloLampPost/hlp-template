@@ -18,5 +18,6 @@ Running the website:
 
 Running Sass:
 
+* Open a new terminal window without closing the previous one
 * Change directory to `/hlp-template/assets/stylesheets`
 * Run `sass --watch style.scss:style.css`
