@@ -3,7 +3,7 @@ ruby '2.2.4'
 
 gem 'rack'
 gem 'i18n'
-gem 'sprockets'
+gem 'sprockets', '~> 2.12', '>= 2.12.5'
 gem 'sass', '~> 4.0.0.alpha.1'
 gem 'bourbon'
 gem 'uglifier'
